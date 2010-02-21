@@ -1,0 +1,5 @@
+This simple bookmarklet adds padding around the BODY tag to allow users to move an entire page within a browser window.  It's useful for centering content within the user's field of vision.
+
+Open the "INSTALL.html" file to install the bookmarklet.
+
+Copyright (c) 2009 Francis Wu, released under the MIT license
