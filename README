@@ -2,6 +2,6 @@ This simple bookmarklet adds padding around the BODY tag to allow users to move 
 
 To install, create a bookmark and make this its link:
 
-javascript:bStyle%20=%20document.getElementsByTagName(%22body%22)[0].style;bStyle.width%20=%20%22120%%22;bStyle.height%20=%20%22140%%22;bStyle.padding%20=%20%2210%%2010%%2030%%2010%%22;
+javascript:(function()%20{bStyle%20=%20document.getElementsByTagName(%22body%22)[0].style;bStyle.width%20=%20%22120%%22;bStyle.height%20=%20%22140%%22;bStyle.padding%20=%20%2210%%2010%%2030%%2010%%22;})();
 
 Copyright (c) 2009 Francis Wu, released under the MIT license
